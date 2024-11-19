@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Nerko+One&family=Quicksand&display=swap');
+body, p{
+  font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.card-header{
+	color: #013e8f;
+}
+.card .card-title {
+    color: #013e8f; /* Azul oscuro */
+    font-size: 30px;
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+#header{
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #013e8f;
+  font-size: 50px;
+  text-align: center;
+}
+.titulo{
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #013e8f;
+  font-size: 35px;
+}
+.nav-tabs {
+	background-color: #013e8f;
+	color: white;
+	border-color: white;
+}
+.nav-item .nav-link {
+    color:white;
+}
+.nav-link:hover {
+    background-color: white; 
+    color: #013e8f; 
+}
+.jumbotron{
+	background-color: #B9D4EC;
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+.card{
+	margin-bottom: 20px;
+}
+.card-header h5 a{
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  font-size: 35px;
+}
+.card-header h5 a{
+	color: white;
+	text-decoration: none;
+}
+.collapse .card-body{
+	background-color: #B9D4EC;
+}
+.card-body h4{
+	color: #013e8f;
+    font-size: 30px;
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+ul{
+	list-style-type: disc;
+}
+
